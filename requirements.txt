@@ -1,0 +1,7 @@
+# Python packages
+
+pandas
+numpy
+matplotlib
+seaborn
+scipy
